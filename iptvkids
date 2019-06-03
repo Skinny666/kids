@@ -1,7 +1,7 @@
 ###################################### KIDS ############################################
 
 #EXTINF:-1 tvg-logo="https://www.mumbrella.asia/content/uploads/2016/02/Screen-Shot-2016-02-26-at-4.12.02-pm.png" group-title="KIDS", Cartoon Network
-https://betohost.azureedge.net/hls1/cartoon.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMTkgMTE6MTI6NDAgQU0maGFzaF92YWx1ZT1YOEQxcmtpSk9mUnI4TE9tdlo1clNnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://betohost.azureedge.net/hls1/cartoon.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMTkgMTE6MTc6MDggQU0maGFzaF92YWx1ZT1vSjJpNU5oRWRlZnNpM2pITUxoMFJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP8oZR2EpPI1pz_yQoBLmWE1hx5XtSLPY2yP3HTQ84n8gejv-" group-title="KIDS", Discovery kids
 https://assistirtvonline.xyz:25463/live/Segunda/Fria/111.m3u8
